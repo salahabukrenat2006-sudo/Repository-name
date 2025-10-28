@@ -2,3 +2,4 @@ python-telegram-bot==20.6
 Flask==3.0.0
 Pillow==10.3.0
 gunicorn==21.2.0
+
